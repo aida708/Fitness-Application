@@ -39,11 +39,5 @@ This is a fitness tracking application built using **React**, **TypeScript**, an
 - **React Router** (for navigation)
 - **Context API** (for global authentication state)
 
-## **Setup Instructions**
 
-**Clone the Repository
-   git clone https://github.com/your-username/Fitness-Application-Challenge-05.git
-   cd Fitness-Application-Challenge-05
-   npm install
-  npm start
 
